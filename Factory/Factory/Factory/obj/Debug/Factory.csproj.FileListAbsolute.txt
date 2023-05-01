@@ -1,0 +1,13 @@
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.Entrance.resources
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.FactoryWorker.resources
+C:\Users\koten\OneDrive\Рабочий стол\Factory\Factory\Factory\obj\Debug\Factory.Watchman.resources
