@@ -1,0 +1,16 @@
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.csproj.AssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.csproj.SuggestedBindingRedirects.cache
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\bin\Debug\Keys.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\bin\Debug\Keys.exe
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\bin\Debug\Keys.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.Teacher.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.exe
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.Watchman.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.ReleaseKabinet.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.TakeKabinet.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.Story_kabinet.resources
+C:\Users\koten\OneDrive\Рабочий стол\Project\Keys\Keys\obj\Debug\Keys.csproj.ResolveComReference.cache
